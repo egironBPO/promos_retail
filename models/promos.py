@@ -14,5 +14,3 @@ class Promocionesagregacion(models.Model):
 
     
     
-
-  
