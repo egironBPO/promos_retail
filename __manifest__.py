@@ -6,7 +6,7 @@
     'category': 'Inventory',
     'description': """Agregar campos a Product Template""",
     'Author': "Elder Giron",
-    'depends': ['base','product','sale_loyalty'],
+    'depends': ['base','product'],
     'summary': 'Agregar campos a Product Template ',
     'data': [
     'views/promociones_views.xml',
